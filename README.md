@@ -10,7 +10,7 @@ Just fork the original repo at pragmaticlearning/github-example, make your chang
 
 =================
 
-I have just edited this document in order to make the add a new separator.
+I have just edited this document in order to add a new separator.
 
 
 
