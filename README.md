@@ -9,7 +9,10 @@ How to Contribute
 Just fork the original repo at pragmaticlearning/github-example, make your changes and send over a Pull Request.
 
 =================
-I have just edited this document in order to make the exercise of chapter 3 (Editing a file).
+
+I have just edited this document in order to make the add a new separator.
+
+
 
 
 
